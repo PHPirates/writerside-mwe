@@ -7,8 +7,4 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
-    <toc-element origin="Writerside" topic="Image-test.md"/>
-    <toc-element origin="Writerside" topic="Image-test-2.md"/>
-    <toc-element origin="Writerside" topic="Image-test-3.md"/>
-    <toc-element origin="Writerside" topic="Image-test-4.md"/>
 </instance-profile>
