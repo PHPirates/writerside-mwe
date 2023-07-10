@@ -3,6 +3,6 @@
 
 <ihp version="2.0">
     <topics dir="topics"/>
-    <images dir="images"/>
+    <images dir="images" web-path="writerside-mwe"/>
     <instance src="m.tree" web-path="/m/" version="1.0"/>
 </ihp>
