@@ -7,7 +7,4 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
-    <toc-element topic="project-dir.md"/>
-    <toc-element topic="relative-path.md"/>
-    <toc-element topic="wrs-module.md"/>
 </instance-profile>
