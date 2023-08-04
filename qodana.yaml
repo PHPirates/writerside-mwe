@@ -1,6 +1,8 @@
 version: "1.0"
-linter: jetbrains/qodana:latest
+linter: jetbrains/qodana-jvm:2023.1-eap
 plugins:
   - id: tanvd.grazi
+  - id: org.intellij.plugins.markdown
+  - id: com.jetbrains.writerside
 profile:
   path: Project_Default.xml
